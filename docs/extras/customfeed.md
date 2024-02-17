@@ -15,6 +15,7 @@ sidebar_position: 1
 - [Mentions](https://bsky.app/profile/did:plc:wzsilnxf24ehtmmc3gssy5bu/feed/mentions) - 自身宛のメンション or リプライを集めたフィード
 - [RepostNextPost](https://bsky.app/profile/did:plc:6zpjzzdzet62go7lnaoq4xog/feed/rp-next-post) - 自身のポストをリポストした人のその直後のポストを表示するフィード
 - [Followers](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/my-followers) - 自身をフォローしていて、自身がフォローしていないユーザーのポストを集めたフィード
+- [Latest From Follows](https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys/feed/bestoffollows) - 自分がフォローしている各ユーザーの最新ポストだけを集めたフィード
 
 ### 特定の条件の投稿を集めたフィード
 
